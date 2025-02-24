@@ -1,4 +1,4 @@
-# Jasurbek Xaitov
+Hi, I'm Jasur
 
 **Frontend Developer**  
 Tashkent, Uzbekistan  
@@ -10,10 +10,9 @@ Tashkent, Uzbekistan
 ## 👋 About Me
 Frontend Developer passionate about building interactive user interfaces and scalable web applications. Experienced in developing modern applications using **React.js, Next.js, and TypeScript**.
 
-🎓 Full-stack developer with expertise in **React.js / Next.js**  
+🎓 Frontend developer with expertise in **React.js / Next.js**  
 🏢 Currently studying at **INHA University in Tashkent**  
-🚀 Passionate about **UI/UX Design and Frontend Architecture**  
-🌍 Open-source contributor and enthusiast  
+🚀 Passionate about **UI/UX Design and Frontend Architecture** 
 
 ---
 
@@ -25,7 +24,7 @@ Frontend Developer passionate about building interactive user interfaces and sca
 - React.js, Next.js, Redux, React Router v6
 - Tailwind CSS, ShadCN UI
 
-### **Database & Tools**
+### **Tools**
 - Git, GitHub
 - Jest, React Testing Library
 
