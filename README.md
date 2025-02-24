@@ -1,7 +1,8 @@
-Hi, I'm Jasur
+# Hi, I'm Jasur
 
 **Frontend Developer**  
 Tashkent, Uzbekistan  
+
 📞 +998 88 075 16 10  
 📧 [xaitovjasur0@gmail.com](mailto:xaitovjasur0@gmail.com)  
 
